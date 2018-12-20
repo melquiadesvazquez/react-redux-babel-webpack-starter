@@ -196,6 +196,12 @@ const App = () => (
 export default App;
 ```
 
+## Edit src/types/index.js
+
+```js
+export const MYACTION = 'ACTION_NAME';
+```
+
 ## Edit src/actions/index.js
 
 ```js
