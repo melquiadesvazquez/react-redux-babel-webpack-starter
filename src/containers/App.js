@@ -1,11 +1,11 @@
 import React, { Fragment } from 'react';
 
 import '../css/style.css';
-import MyComponent from '../components/MyComponent';
+import Counter from '../components/Counter';
 
 const App = () => (
   <Fragment>
-    <MyComponent />
+    <Counter />
   </Fragment>
 );
 

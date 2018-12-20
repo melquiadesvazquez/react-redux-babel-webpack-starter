@@ -1,1 +1,2 @@
-export const MYACTION = 'ACTION_NAME';
+export const INCREMENT = 'INCREMENT';
+export const DECREMENT = 'DECREMENT';
