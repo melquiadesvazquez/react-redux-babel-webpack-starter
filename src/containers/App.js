@@ -1,11 +1,11 @@
 import React, { Fragment } from 'react';
 
 import '../css/style.css';
-import Calculator from '../components/Calculator';
+import Fight from '../components/Fight';
 
 const App = () => (
   <Fragment>
-    <Calculator />
+    <Fight />
   </Fragment>
 );
 

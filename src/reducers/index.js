@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import calculatorReducer from './calculatorReducer';
+import fightReducer from './fightReducer';
 
 const rootReducer = combineReducers({
-  calculator: calculatorReducer
+  fight: fightReducer
 });
 
 export default rootReducer;
