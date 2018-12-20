@@ -34,7 +34,7 @@ npm i -D babel-loader @babel/core @babel/plugin-proposal-class-properties @babel
 
 ```sh
 mkdir public; touch public/index.html
-mkdir -p src/containers; touch src/components/App.js
+mkdir -p src/containers; touch src/containers/App.js
 mkdir -p src/components; touch src/components/MyComponent.js
 mkdir -p src/actions; touch src/actions/index.js;
 mkdir -p src/types; touch src/types/index.js;
